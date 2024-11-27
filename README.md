@@ -11,4 +11,4 @@ Stay tuned for updates as I work towards deploying the website and making it acc
 hashtag#ReactJS hashtag#WebDevelopment hashtag#API hashtag#RealTimeWeather hashtag#Milestone hashtag#TechJourney hashtag#LinkedIn
 "# TemperatureAPI-by-Salman" 
 
-Live: https://www.linkedin.com/posts/farshi_reactjs-webdevelopment-api-activity-7190787916795727873-g4km?utm_source=share&utm_medium=member_desktop
+Live: https://www.linkedin.com/posts/salmancse_reactjs-webdevelopment-api-activity-7190787916795727873-9v23?utm_source=share&utm_medium=member_desktop
